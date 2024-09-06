@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-Name: spotbugs-annotations
+Bundle-SymbolicName: spotbugs-annotations
+Bundle-Version: 4.8.4.SNAPSHOT
+Export-Package: edu.umd.cs.findbugs.annotations
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ManifestVersion: 2
+Automatic-Module-Name: com.github.spotbugs.annotations
+
